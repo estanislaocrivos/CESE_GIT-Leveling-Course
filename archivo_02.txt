@@ -2,7 +2,7 @@ Archivo 02
 
 1
 2
-3 Esta es una modificación.
+3 Esta es una modificación. Esta es una modificación conflictiva. 
 4
 5
 
